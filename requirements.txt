@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+plotly
+langchain
+langchain-experimental
+langchain-huggingface
+huggingface-hub
+fpdf
+tabulate
