@@ -8,3 +8,4 @@ langchain-huggingface
 huggingface-hub
 fpdf
 tabulate
+requests
